@@ -1,2 +1,2 @@
-# fanAOI
-台北市職能發展學院_python應用實戰_專題(fanAOI)
+# FanAOI_Austin
+FanAOI repo for my own 
